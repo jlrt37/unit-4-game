@@ -1,5 +1,6 @@
+
 body{
-	background-image: url("assets\images\background.jpg");
+	background-image: url("../images/background.jpg")
 }
 div{
 	background-color: #e0e0eb;
@@ -48,7 +49,7 @@ div.header, div.instructions{
 	height: 60px;
 	margin: 10px;
 }
-
+/* IDs */
 #blue{
 	color: blue;
 }
@@ -59,5 +60,5 @@ div.header, div.instructions{
 	color: red;
 }
 #yellow{
-	color: #CCCC00;
-}
+	color: #ffc225;
+} 
